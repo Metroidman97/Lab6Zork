@@ -12,3 +12,4 @@ C:\Users\Owner\OneDrive\Documents\College stuff\UCF\DIG4778 Game Tools and Plugi
 C:\Users\Owner\OneDrive\Documents\College stuff\UCF\DIG4778 Game Tools and Plugins\New folder\Lab6Zork\Zork\Zork\obj\Debug\net8.0\Zork.pdb
 C:\Users\Owner\OneDrive\Documents\College stuff\UCF\DIG4778 Game Tools and Plugins\New folder\Lab6Zork\Zork\Zork\obj\Debug\net8.0\Zork.genruntimeconfig.cache
 C:\Users\Owner\OneDrive\Documents\College stuff\UCF\DIG4778 Game Tools and Plugins\New folder\Lab6Zork\Zork\Zork\obj\Debug\net8.0\ref\Zork.dll
+C:\Users\Owner\OneDrive\Documents\College stuff\UCF\DIG4778 Game Tools and Plugins\New folder\Lab6Zork\Zork\Zork\obj\Debug\net8.0\Zork.sourcelink.json
